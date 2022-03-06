@@ -1,10 +1,10 @@
----
-title: Project 1 - os161 demand paging and swapping
-author: Francesco Capano (s284739), Cosma Alex Vergari (s284922)
-date: 23rd January 2022
+# Project 1 - os161 demand paging and swapping
+### Francesco Capano (s284739), Cosma Alex Vergari (s284922)
+### 23rd January 2022
+
+*NOTE : original project repository at [https://github.com/CosmaAlex/os161-vm](https://github.com/CosmaAlex/os161-vm)*
 ---
 
-\newpage
 
 # Theorical introduction
 
